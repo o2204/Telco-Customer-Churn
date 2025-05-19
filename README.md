@@ -43,7 +43,7 @@ This dataset represents customer information, where each row corresponds to a cu
 ## 🔗 Links
 
 - Notebook on Kaggle: [https://www.kaggle.com/code/omaratef200/customer-churn](https://www.kaggle.com/code/omaratef200/customer-churn)
-- Video on LinkedIn: *(Coming Soon)*
+- Video on LinkedIn: [![LinkedIn](https://www.linkedin.com/posts/o2204_%D8%A7%D9%84%D8%AD%D9%85%D8%AF-%D9%84%D9%84%D9%87-%D8%AE%D9%84%D8%B5%D8%AA-%D9%85%D8%B4%D8%B1%D9%88%D8%B9-%D8%AC%D8%AF%D9%8A%D8%AF-%D9%81%D9%8A-%D9%85%D8%AC%D8%A7%D9%84-%D8%A7%D9%84%D9%80-machine-activity-7330330078741995521-Lpfq?utm_source=share&utm_medium=member_ios&rcm=ACoAAD3InlYBg47QtQUB-CFNvF5Qq3TB0NZRmZI)  
 
 ---
 
